@@ -2,4 +2,4 @@
 # Linux-Ascii
 Логотипы различных дистрибутивов GNU/Linux. Список будет пополняться  
 # Что уже есть?
-- Debian
+- Debian (автор - Catware-Foundation)
