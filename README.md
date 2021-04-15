@@ -3,3 +3,6 @@
 Логотипы различных дистрибутивов GNU/Linux. Список будет пополняться  
 # Что уже есть?
 - Debian (автор - Catware-Foundation)
+- Arch
+- Eblan (Fedora)
+- Fedora
