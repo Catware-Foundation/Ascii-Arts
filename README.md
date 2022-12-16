@@ -6,4 +6,9 @@
 - Arch
 - Eblan (Fedora)
 - Fedora
-- Aye
+- Aуе
+- РЖД
+- OpenSUSE (цветной)
+- Gentoo Linux (цветной)
+- NixOS (цветной)
+- Slackware (цветной)
